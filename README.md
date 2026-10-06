@@ -111,13 +111,6 @@ I'm a **DevOps Engineer** passionate about designing and implementing robust clo
 - Streamlined operational processes and task automation
 - **Impact:** Reduced manual operational overhead
 
-### [GitHubActions Workflows](https://github.com/Saitejareddybattu/GitHubActions)
-🔄 **CI/CD Pipeline Implementation**
-- Comprehensive GitHub Actions automation
-- Automated testing, building, and deployment workflows
-- Multi-stage pipeline configurations
-- **Impact:** Accelerated deployment cycles and improved reliability
-
 ### [Infrastructure Projects](https://github.com/Saitejareddybattu/Projects)
 🏗️ **Cloud Infrastructure & IaC**
 - Terraform-based infrastructure provisioning
