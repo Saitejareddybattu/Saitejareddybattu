@@ -150,5 +150,5 @@ I'm a **DevOps Engineer** passionate about designing and implementing robust clo
 </p>
 
 <p align="center">
-  <strong>Let's build something great together! 🚀</strong>
+  <strong>Let's build something great together!</strong>
 </p>
