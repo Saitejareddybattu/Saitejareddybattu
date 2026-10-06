@@ -148,7 +148,7 @@ I'm a **DevOps Engineer** passionate about designing and implementing robust clo
 💼 **LinkedIn:** [Sai Teja Reddy Battu](https://www.linkedin.com/in/sai-teja-reddy-battu-b80a63196/)  
 📧 **Email:** [saitejareddybattu1234@gmail.com](mailto:saitejareddybattu1234@gmail.com)  
 🌍 **Portfolio:** [sai-teja-portfolio.netlify.app](https://sai-teja-portfolio.netlify.app/)  
-💻 **GitHub:** [@Saitejareddybattu](https://github.com/Saitejareddybattu)  
+💻 **GitHub:** [@Saitejareddybattu](https://github.com/Saitejareddybattu/projects)  
 
 ---
 
