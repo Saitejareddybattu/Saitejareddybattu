@@ -105,12 +105,6 @@ I'm a **DevOps Engineer** passionate about designing and implementing robust clo
 
 ## 🎯 Featured Projects
 
-### [Enterprise-Bot](https://github.com/Saitejareddybattu/Enterprise-Bot)
-🤖 **Automation & Workflow Orchestration**
-- Python-based automation for enterprise workflows
-- Streamlined operational processes and task automation
-- **Impact:** Reduced manual operational overhead
-
 ### [Infrastructure Projects](https://github.com/Saitejareddybattu/Projects)
 🏗️ **Cloud Infrastructure & IaC**
 - Terraform-based infrastructure provisioning
