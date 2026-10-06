@@ -142,19 +142,6 @@ I'm a **DevOps Engineer** passionate about designing and implementing robust clo
 ✅ **Security Focused:** IAM, network policies, SonarQube, Semgrep for secure systems  
 ✅ **Scripting & Integration:** Python, Bash, REST APIs for custom solutions  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saitejareddybattu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saitejareddybattu&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
